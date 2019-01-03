@@ -92,7 +92,7 @@ To have some fun, I also ran the model on some pictures from the internet.
 
 ![alt tag](screenshots/pupp.png)
 
-To read more, checkout the [paper](paper/predicting-movie-genres-paper) that I wrote around this code.
+To read more, checkout the [paper](paper/predicting-movie-genres-paper.pdf) that I wrote around this code.
 
 # License information ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 
